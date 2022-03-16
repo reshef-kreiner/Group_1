@@ -1,0 +1,38 @@
+Index: .idea/gradle.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"GradleSettings\">\r\n    <option name=\"linkedExternalProjectsSettings\">\r\n      <GradleProjectSettings>\r\n        <option name=\"testRunner\" value=\"GRADLE\" />\r\n        <option name=\"distributionType\" value=\"DEFAULT_WRAPPED\" />\r\n        <option name=\"externalProjectPath\" value=\"$PROJECT_DIR$\" />\r\n        <option name=\"modules\">\r\n          <set>\r\n            <option value=\"$PROJECT_DIR$\" />\r\n            <option value=\"$PROJECT_DIR$/app\" />\r\n          </set>\r\n        </option>\r\n        <option name=\"resolveModulePerSourceSet\" value=\"false\" />\r\n      </GradleProjectSettings>\r\n    </option>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/gradle.xml b/.idea/gradle.xml
+--- a/.idea/gradle.xml	(revision a1b8d20a0fc54a62537b708df280a7a892e32fd5)
++++ b/.idea/gradle.xml	(date 1647366215107)
+@@ -1,5 +1,6 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
++  <component name="GradleMigrationSettings" migrationVersion="1" />
+   <component name="GradleSettings">
+     <option name="linkedExternalProjectsSettings">
+       <GradleProjectSettings>
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"DesignSurface\">\r\n    <option name=\"filePathToZoomLevelMap\">\r\n      <map>\r\n        <entry key=\"..\\:/Users/mr.smith/OneDrive - The Interdisciplinary Center Herzliya IDC/Desktop/Group1 Final Project/Android Project/app/src/main/res/drawable/ic_home_black_24dp.xml\" value=\"0.3828125\" />\r\n        <entry key=\"..\\:/Users/mr.smith/OneDrive - The Interdisciplinary Center Herzliya IDC/Desktop/Group1 Final Project/Android Project/app/src/main/res/drawable/ic_notifications_black_24dp.xml\" value=\"0.3828125\" />\r\n        <entry key=\"..\\:/Users/mr.smith/OneDrive - The Interdisciplinary Center Herzliya IDC/Desktop/Group1 Final Project/Android Project/app/src/main/res/layout/activity_home_navigation.xml\" value=\"0.2957427536231884\" />\r\n        <entry key=\"..\\:/Users/mr.smith/OneDrive - The Interdisciplinary Center Herzliya IDC/Desktop/Group1 Final Project/Android Project/app/src/main/res/layout/activity_login.xml\" value=\"0.2957427536231884\" />\r\n        <entry key=\"..\\:/Users/mr.smith/OneDrive - The Interdisciplinary Center Herzliya IDC/Desktop/Group1 Final Project/Android Project/app/src/main/res/layout/fragment_dashboard.xml\" value=\"0.4\" />\r\n        <entry key=\"..\\:/Users/mr.smith/OneDrive - The Interdisciplinary Center Herzliya IDC/Desktop/Group1 Final Project/Android Project/app/src/main/res/layout/fragment_home.xml\" value=\"0.25\" />\r\n        <entry key=\"..\\:/Users/mr.smith/OneDrive - The Interdisciplinary Center Herzliya IDC/Desktop/Group1 Final Project/Android Project/app/src/main/res/layout/fragment_notifications.xml\" value=\"0.36666666666666664\" />\r\n        <entry key=\"..\\:/Users/mr.smith/OneDrive - The Interdisciplinary Center Herzliya IDC/Desktop/Group1 Final Project/Android Project/app/src/main/res/menu/bottom_nav_menu.xml\" value=\"0.36666666666666664\" />\r\n        <entry key=\"..\\:/Users/mr.smith/OneDrive - The Interdisciplinary Center Herzliya IDC/Desktop/Group1 Final Project/Android Project/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml\" value=\"0.3828125\" />\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_11\" default=\"true\" project-jdk-name=\"Android Studio default JDK\" project-jdk-type=\"JavaSDK\">\r\n    <output url=\"file://$PROJECT_DIR$/build/classes\" />\r\n  </component>\r\n  <component name=\"ProjectType\">\r\n    <option name=\"id\" value=\"Android\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision a1b8d20a0fc54a62537b708df280a7a892e32fd5)
++++ b/.idea/misc.xml	(date 1647414619873)
+@@ -5,8 +5,8 @@
+       <map>
+         <entry key="..\:/Users/mr.smith/OneDrive - The Interdisciplinary Center Herzliya IDC/Desktop/Group1 Final Project/Android Project/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.3828125" />
+         <entry key="..\:/Users/mr.smith/OneDrive - The Interdisciplinary Center Herzliya IDC/Desktop/Group1 Final Project/Android Project/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.3828125" />
+-        <entry key="..\:/Users/mr.smith/OneDrive - The Interdisciplinary Center Herzliya IDC/Desktop/Group1 Final Project/Android Project/app/src/main/res/layout/activity_home_navigation.xml" value="0.2957427536231884" />
+-        <entry key="..\:/Users/mr.smith/OneDrive - The Interdisciplinary Center Herzliya IDC/Desktop/Group1 Final Project/Android Project/app/src/main/res/layout/activity_login.xml" value="0.2957427536231884" />
++        <entry key="..\:/Users/mr.smith/OneDrive - The Interdisciplinary Center Herzliya IDC/Desktop/Group1 Final Project/Android Project/app/src/main/res/layout/activity_home_navigation.xml" value="0.2" />
++        <entry key="..\:/Users/mr.smith/OneDrive - The Interdisciplinary Center Herzliya IDC/Desktop/Group1 Final Project/Android Project/app/src/main/res/layout/activity_login.xml" value="0.264" />
+         <entry key="..\:/Users/mr.smith/OneDrive - The Interdisciplinary Center Herzliya IDC/Desktop/Group1 Final Project/Android Project/app/src/main/res/layout/fragment_dashboard.xml" value="0.4" />
+         <entry key="..\:/Users/mr.smith/OneDrive - The Interdisciplinary Center Herzliya IDC/Desktop/Group1 Final Project/Android Project/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+         <entry key="..\:/Users/mr.smith/OneDrive - The Interdisciplinary Center Herzliya IDC/Desktop/Group1 Final Project/Android Project/app/src/main/res/layout/fragment_notifications.xml" value="0.36666666666666664" />
